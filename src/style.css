@@ -1,0 +1,24 @@
+:root {
+  --ylomi-primary: #382DB8;
+  --ylomi-success : #28C76F;
+  --ylomi-danger  : #EA5455;
+  --ylomi-warning : #FF9F43;
+  
+  --ylomi-black: #000000;
+  --ylomi-white: #ffffff;
+  --ylomi-silver: #EFF1F1;
+}
+
+html, body{
+  font-size: 14px !important;
+  font-family: 'Inter' !important;
+  margin: 0;
+}
+body {
+  color: var(--ylomi-black);
+  background: var(--ylomi-white);
+}
+button, .uk-button {
+  font-family: 'Inter' !important;
+}
+  
